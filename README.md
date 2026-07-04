@@ -39,13 +39,16 @@ PocketData was developed to help users securely organize and manage personal inf
 
 ## 📸 Screenshots
 
-> *Screenshots will be added soon.*
+| Enter PIN | Home | Document Details | Select Document Type |
+|:----------:|:----:|:----------------:|:--------------------:|
+| <img src="screenshots/Screenshot_20260704_142822.png" width="220"> | <img src="screenshots/Screenshot_20260704_142915.png" width="220"> | <img src="screenshots/Screenshot_20260704_142933.png" width="220"> | <img src="screenshots/Screenshot_20260704_143251.png" width="220"> |
 
-<!-- Example:
-| Login | Home | Reminder |
-|------|------|----------|
-| ![](screenshots/login.png) | ![](screenshots/home.png) | ![](screenshots/reminder.png) |
--->
+### Screen Overview
+
+- **🔢 Enter PIN** – Unlock the application using a secure PIN before accessing your personal data.
+- **🏠 Home** – View all uploaded documents stored securely in the cloud.
+- **📄 Document Details** – Display detailed information and files associated with a selected document.
+- **📂 Select Document Type** – Choose the category of document to upload for better organization.
 
 ---
 
